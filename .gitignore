@@ -1,0 +1,53 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment & logs
+.env
+.env.*
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build artifacts (PyInstaller)
+build/
+dist/
+
+# Tool outputs
+slides_phash/
+slides/
+outputs/
+tmp/
+temp/
+
+# Large media (do not upload)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+*.wmv
+*.m4v
+*.ts
+*.webm
+*.wav
+*.mp3
+*.flac
+*.aac
+
+# Generated PDFs
+*.pdf
+
+
